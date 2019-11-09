@@ -1,0 +1,16 @@
+.addfood {
+  height: 35px;
+  align-content: center;
+  background-color: #63007a;
+  overflow: scroll;
+}
+.addfood-main {
+  background-color: #f9f9f9;
+  width: 100%;
+  height: 558px;
+  margin-top: 2%;
+}
+.addfood-col {
+  height: 558px;
+  overflow: scroll;
+}

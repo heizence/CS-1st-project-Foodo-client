@@ -1,0 +1,20 @@
+.recmenu {
+  height: 35px;
+  align-content: top;
+  background-color: #5f2099;
+}
+.recmenu-main {
+  background-color: #f9f9f9;
+  width: 100%;
+  height: 585px;
+}
+
+.menu-footer {
+  position: flex;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.vid {
+  height: 525px;
+}

@@ -1,0 +1,12 @@
+.NavBar {
+  -webkit-border-radius: 9px 9px 0px 0px;
+  -moz-border-radius: 9px 9px 0px 0px;
+  border-radius: 9px 9px 0px 0px;
+  
+}
+
+.mainnav {
+  height: 45px;
+  align-content: center;
+  background-color: #5f2099;
+}
