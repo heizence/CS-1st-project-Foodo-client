@@ -20,6 +20,9 @@ npm install
 npm start
 ```
 
+## More Informations
++ [More about this project](https://slides.com/bangsil/deck-3#/)
+
 ## Contributors
 Front-end: 정재숙, 금도헌   
 Back-end: 최방실(team leader), 정혜경
